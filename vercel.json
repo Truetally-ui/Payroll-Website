@@ -1,4 +1,26 @@
 {
   "cleanUrls": true,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/ndis-payroll-outsourcing-ballarat",
+      "destination": "/ndis-payroll-outsourcing-regional-victoria",
+      "permanent": true
+    },
+    {
+      "source": "/ndis-payroll-outsourcing-ballarat.html",
+      "destination": "/ndis-payroll-outsourcing-regional-victoria",
+      "permanent": true
+    },
+    {
+      "source": "/ndis-payroll-outsourcing-bendigo",
+      "destination": "/ndis-payroll-outsourcing-regional-victoria",
+      "permanent": true
+    },
+    {
+      "source": "/ndis-payroll-outsourcing-bendigo.html",
+      "destination": "/ndis-payroll-outsourcing-regional-victoria",
+      "permanent": true
+    }
+  ]
 }
