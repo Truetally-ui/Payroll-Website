@@ -9,7 +9,8 @@
     { "index": 7, "slug": "payroll-audit-checklist", "keyword": "payroll audit checklist" },
     { "index": 8, "slug": "allied-health-payroll-services", "keyword": "allied health payroll services" },
     { "index": 9, "slug": "schads-award-classification-guide", "keyword": "SCHADS Award classification guide" },
-    { "index": 10, "slug": "payday-super-checklist-employers", "keyword": "payday super checklist employers" }
+    { "index": 10, "slug": "payday-super-checklist-employers", "keyword": "payday super checklist employers" },
+    { "index": 11, "slug": "schads-award-pay-increase-2026", "keyword": "SCHADS Award pay increase 2026", "source": "WebSearch fallback: rotation list exhausted, added 2026-09-23, based on the Fair Work Commission's 1 June 2026 gender-based undervaluation decision ([2026] FWCFB 137), the 4.75% Annual Wage Review increase from 1 July 2026, and the Schedule E interim increase from 1 October 2026" }
   ],
   "used": [
     { "index": 1, "slug": "stp-phase-2", "datePublished": "2026-09-13" },
@@ -21,7 +22,8 @@
     { "index": 7, "slug": "payroll-audit-checklist", "datePublished": "2026-09-19" },
     { "index": 8, "slug": "allied-health-payroll-services", "datePublished": "2026-09-20" },
     { "index": 9, "slug": "schads-award-classification-guide", "datePublished": "2026-09-21" },
-    { "index": 10, "slug": "payday-super-checklist-employers", "datePublished": "2026-09-22" }
+    { "index": 10, "slug": "payday-super-checklist-employers", "datePublished": "2026-09-22" },
+    { "index": 11, "slug": "schads-award-pay-increase-2026", "datePublished": "2026-09-23" }
   ],
-  "nextIndex": 11
+  "nextIndex": 12
 }
