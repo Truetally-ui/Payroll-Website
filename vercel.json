@@ -4,22 +4,127 @@
   "redirects": [
     {
       "source": "/ndis-payroll-outsourcing-ballarat",
-      "destination": "/ndis-payroll-outsourcing-regional-victoria",
-      "permanent": true
-    },
-    {
-      "source": "/ndis-payroll-outsourcing-ballarat.html",
-      "destination": "/ndis-payroll-outsourcing-regional-victoria",
+      "destination": "https://www.truetally.com.au/payroll-outsourcing-ndis-support-services-schads-award-guide/",
       "permanent": true
     },
     {
       "source": "/ndis-payroll-outsourcing-bendigo",
-      "destination": "/ndis-payroll-outsourcing-regional-victoria",
+      "destination": "https://www.truetally.com.au/payroll-outsourcing-ndis-support-services-schads-award-guide/",
       "permanent": true
     },
     {
-      "source": "/ndis-payroll-outsourcing-bendigo.html",
-      "destination": "/ndis-payroll-outsourcing-regional-victoria",
+      "source": "/ndis",
+      "destination": "https://www.truetally.com.au/payroll-outsourcing-ndis-support-services-schads-award-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/ndis-payroll-outsourcing-regional-victoria",
+      "destination": "https://www.truetally.com.au/payroll-outsourcing-ndis-support-services-schads-award-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/medical",
+      "destination": "https://www.truetally.com.au/bookkeeping-for-medical-practices-and-gps-in-australia-the-complete-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/medical-practice-payroll-tax-ruling",
+      "destination": "https://www.truetally.com.au/payroll-tax-victoria-threshold-rate-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/allied-health",
+      "destination": "https://www.truetally.com.au/bookkeeping-for-allied-health-halaxy-splose-and-getting-claims-right/",
+      "permanent": true
+    },
+    {
+      "source": "/allied-health-payroll-services",
+      "destination": "https://www.truetally.com.au/outsourced-schads-award-payroll-for-australian-employers/",
+      "permanent": true
+    },
+    {
+      "source": "/bookkeeping-and-claims",
+      "destination": "https://www.truetally.com.au/bookkeeping-for-allied-health-halaxy-splose-and-getting-claims-right/",
+      "permanent": true
+    },
+    {
+      "source": "/ndis-claim-invoice-requirements",
+      "destination": "https://www.truetally.com.au/splose-bookkeeping-reconciling-splose-with-xero-for-ndis-and-allied-health/",
+      "permanent": true
+    },
+    {
+      "source": "/payroll-audit",
+      "destination": "https://www.truetally.com.au/payroll-compliance-mistakes-professional-services-make-plus-your-annual-checklist/",
+      "permanent": true
+    },
+    {
+      "source": "/payroll-audit-checklist",
+      "destination": "https://www.truetally.com.au/payroll-compliance-mistakes-professional-services-make-plus-your-annual-checklist/",
+      "permanent": true
+    },
+    {
+      "source": "/payroll-compliance-checklist-australia",
+      "destination": "https://www.truetally.com.au/payroll-compliance-mistakes-professional-services-make-plus-your-annual-checklist/",
+      "permanent": true
+    },
+    {
+      "source": "/what-is-payroll-compliance",
+      "destination": "https://www.truetally.com.au/payroll-compliance-mistakes-professional-services-make-plus-your-annual-checklist/",
+      "permanent": true
+    },
+    {
+      "source": "/payroll-compliance-services-australia",
+      "destination": "https://www.truetally.com.au/payroll-outsourcing-services/",
+      "permanent": true
+    },
+    {
+      "source": "/professional-services",
+      "destination": "https://www.truetally.com.au/bookkeeping-and-admin-support-for-growing-allied-health-and-professional-services-practices/",
+      "permanent": true
+    },
+    {
+      "source": "/xero-payday-super",
+      "destination": "https://www.truetally.com.au/about-payday-super-superannuation-changes/",
+      "permanent": true
+    },
+    {
+      "source": "/payday-super-checklist-employers",
+      "destination": "https://www.truetally.com.au/about-payday-super-superannuation-changes/",
+      "permanent": true
+    },
+    {
+      "source": "/stp-phase-2",
+      "destination": "https://www.truetally.com.au/payroll-management-australian-small-business-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/single-touch-payroll-compliance",
+      "destination": "https://www.truetally.com.au/payroll-management-australian-small-business-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/schads-award-classification-guide",
+      "destination": "https://www.truetally.com.au/schads-award-classification-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/schads-award-pay-increase-2026",
+      "destination": "https://www.truetally.com.au/schads-award-pay-increase-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/employment-hero-vs-deel-payroll-comparison",
+      "destination": "https://www.truetally.com.au/employment-hero-vs-deel-payroll-comparison/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "destination": "https://www.truetally.com.au/payroll-outsourcing-services/",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "destination": "https://www.truetally.com.au/services/payroll",
       "permanent": true
     }
   ]
