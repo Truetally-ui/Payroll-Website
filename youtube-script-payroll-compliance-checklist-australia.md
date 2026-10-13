@@ -11,7 +11,7 @@ https://payroll.truetally.com.au/payroll-compliance-checklist-australia
 
 Book a free 15-minute payroll review call: https://api.leadconnectorhq.com/widget/booking/B3kFZeHcnWq1H4dHlAhf
 
-True Tally Bookkeeping. Registered BAS Agent No. 26360186. Xero Certified Advisor. Providing specialist payroll outsourcing for NDIS providers, medical practices and allied health clinics across Australia.
+True Tally Bookkeeping. Registered BAS Provider No. 26360186. Xero Certified Advisor. Providing specialist payroll outsourcing for NDIS providers, medical practices and allied health clinics across Australia.
 
 Tags: payroll compliance Australia, payroll compliance checklist, Fair Work Ombudsman, wage theft, superannuation guarantee, Payday Super, STP Phase 2, SCHADS Award, NDIS payroll, medical practice payroll, allied health payroll, award classification
 

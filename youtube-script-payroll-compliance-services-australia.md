@@ -11,7 +11,7 @@ https://payroll.truetally.com.au/payroll-compliance-services-australia
 
 Book a free 15-minute payroll review call: https://api.leadconnectorhq.com/widget/booking/B3kFZeHcnWq1H4dHlAhf
 
-True Tally Bookkeeping. Registered BAS Agent No. 26360186. Xero Certified Advisor. Providing specialist payroll outsourcing for NDIS providers, medical practices and allied health clinics across Australia.
+True Tally Bookkeeping. Registered BAS Provider No. 26360186. Xero Certified Advisor. Providing specialist payroll outsourcing for NDIS providers, medical practices and allied health clinics across Australia.
 
 Tags: payroll compliance services, payroll compliance Australia, BAS agent payroll, STP Phase 2, superannuation guarantee compliance, Fair Work Act wage theft, payroll outsourcing Australia, Tax Practitioners Board BAS agent, Award classification compliance
 
@@ -36,4 +36,4 @@ This is the bit people skip over. Advising on or managing the GST, PAYG withhold
 So if you're evaluating a provider, ask a few pointed questions. Do they actively check Award classification against the real work being done, or do they just process whatever classification is already on file? What's their actual experience with your specific Award, because the SCHADS Award, medical practice arrangements and allied health awards each have their own classification traps that catch people out. And how are they getting clients ready for Payday Super before the first of July twenty twenty six deadline? If the answer to all of that is basically "we just run the numbers you send us," that's a processing service, not a compliance service, whatever the marketing says.
 
 [OUTRO / CTA]
-So that's the real shape of it, payroll compliance is about checking the numbers against current law, not just running them on time, and since 2025 the cost of getting that wrong has gone up a lot. If you want an honest read on where your own payroll compliance actually stands right now, the link in the description books a free fifteen minute call. We do this as a registered BAS agent for NDIS providers, medical practices and allied health clinics across Australia, and it's built into every pay cycle we run, not bolted on afterwards. Thanks for watching, and I'll see you in the next one.
+So that's the real shape of it, payroll compliance is about checking the numbers against current law, not just running them on time, and since 2025 the cost of getting that wrong has gone up a lot. If you want an honest read on where your own payroll compliance actually stands right now, the link in the description books a free fifteen minute call. We do this as a registered BAS provider for NDIS providers, medical practices and allied health clinics across Australia, and it's built into every pay cycle we run, not bolted on afterwards. Thanks for watching, and I'll see you in the next one.

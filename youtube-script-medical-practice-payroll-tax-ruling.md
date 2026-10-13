@@ -11,7 +11,7 @@ https://payroll.truetally.com.au/medical-practice-payroll-tax-ruling
 
 Book a free 15-minute payroll review call: https://api.leadconnectorhq.com/widget/booking/B3kFZeHcnWq1H4dHlAhf
 
-True Tally Bookkeeping. Registered BAS Agent No. 26360186. Xero Certified Advisor. Providing specialist payroll outsourcing for NDIS providers, medical practices and allied health clinics across Australia.
+True Tally Bookkeeping. Registered BAS Provider No. 26360186. Xero Certified Advisor. Providing specialist payroll outsourcing for NDIS providers, medical practices and allied health clinics across Australia.
 
 Tags: medical practice payroll tax, payroll tax GP contractors, Thomas and Naaz, relevant contracts payroll tax, bulk billing payroll tax exemption, Revenue NSW medical centres, Queensland Revenue Office GP ruling, medical practice payroll outsourcing, payroll compliance Australia
 

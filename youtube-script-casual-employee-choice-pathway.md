@@ -11,7 +11,7 @@ https://payroll.truetally.com.au/casual-employee-choice-pathway
 
 Book a free 15-minute payroll review call: https://api.leadconnectorhq.com/widget/booking/B3kFZeHcnWq1H4dHlAhf
 
-True Tally Bookkeeping. Registered BAS Agent No. 26360186. Xero Certified Advisor. Providing specialist payroll outsourcing for NDIS providers, medical practices and allied health clinics across Australia.
+True Tally Bookkeeping. Registered BAS Provider No. 26360186. Xero Certified Advisor. Providing specialist payroll outsourcing for NDIS providers, medical practices and allied health clinics across Australia.
 
 Tags: employee choice pathway, casual to permanent conversion, casual employment changes, Closing Loopholes, Fair Work Act casual employee, casual conversion 2026, NDIS payroll, SCHADS Award casual, medical practice payroll, allied health payroll, Australian payroll compliance
 
